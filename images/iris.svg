@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e5bdd2;
+      }
+
+      .cls-2 {
+        fill: #f73b2d;
+      }
+
+      .cls-3 {
+        fill: #f99b2b;
+      }
+
+      .cls-4 {
+        fill: #f7e82d;
+      }
+
+      .cls-5 {
+        fill: #2df796;
+      }
+
+      .cls-6 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <title>Artboard 12</title>
+  <g id="iconIrisBackground">
+    <g id="iconBorder">
+      <path d="M246,10V246H10V10H246M256,0H0V256H256V0Z"/>
+    </g>
+  </g>
+  <g id="iconIrisCircles">
+    <circle class="cls-1" cx="101" cy="91" r="30"/>
+    <circle class="cls-1" cx="172" cy="119" r="30"/>
+    <circle class="cls-1" cx="125" cy="173" r="30"/>
+  </g>
+  <g id="rainbow">
+    <path id="ringFill" class="cls-2" d="M178.41,128.66A71,71,0,0,0,78,129"/>
+    <path id="ringFill-2" data-name="ringFill" class="cls-3" d="M172.07,137.87a57,57,0,0,0-80.61.25"/>
+    <path id="ringFill-3" data-name="ringFill" class="cls-4" d="M166.44,146.37a42,42,0,0,0-59.39.18"/>
+    <path id="ringFill-4" data-name="ringFill" class="cls-5" d="M159.4,154.88a27,27,0,0,0-38.19.12"/>
+    <path id="rainbowPath" class="cls-6" d="M115.21,149a27,27,0,0,1,38.19-.12m7-8.51a42,42,0,0,0-59.39.18m65-8.68a57,57,0,0,0-80.61.25m87-9.46A71,71,0,0,0,72,123"/>
+  </g>
+</svg>

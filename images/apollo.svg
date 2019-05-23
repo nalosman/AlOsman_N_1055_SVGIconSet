@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e27600;
+      }
+
+      .cls-2 {
+        fill: #ffe000;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <title>Artboard 6</title>
+  <g id="iconApolloBackground">
+    <path d="M246,10V246H10V10H246M256,0H0V256H256V0Z"/>
+  </g>
+  <g id="iconApolloCircles">
+    <circle class="cls-1" cx="109" cy="96" r="30"/>
+    <circle class="cls-1" cx="180" cy="124" r="30"/>
+    <circle class="cls-1" cx="133" cy="178" r="30"/>
+  </g>
+  <g id="sun">
+    <path id="sunFill" class="cls-2" d="M129,106a55,55,0,0,0-55,55H184A55,55,0,0,0,129,106Z"/>
+    <path id="sunPath" class="cls-3" d="M126,103a55,55,0,0,0-55,55H181A55,55,0,0,0,126,103Z"/>
+  </g>
+</svg>

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #a3c6af;
+      }
+
+      .cls-2 {
+        fill: #e1c699;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <title>Artboard 7</title>
+  <g id="iconHermesBackground">
+    <path d="M246,10V246H10V10H246M256,0H0V256H256V0Z"/>
+  </g>
+  <g id="iconHermesCircles">
+    <circle class="cls-1" cx="112" cy="96" r="30"/>
+    <circle class="cls-1" cx="183" cy="124" r="30"/>
+    <circle class="cls-1" cx="136" cy="178" r="30"/>
+  </g>
+  <g id="letter">
+    <path id="letterFill" class="cls-2" d="M178,171H85V117h93ZM85.89,117.55,129,144l48.71-26.84a.08.08,0,0,0,0-.16H86.05A.3.3,0,0,0,85.89,117.55Z"/>
+    <path id="letterPath" class="cls-3" d="M175,168H82V114h93ZM82.89,114.55,126,141l48.71-26.84a.08.08,0,0,0,0-.16H83.05A.3.3,0,0,0,82.89,114.55Z"/>
+  </g>
+</svg>

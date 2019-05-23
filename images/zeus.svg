@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d9dbda;
+      }
+
+      .cls-2 {
+        fill: #ffe85c;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <title>Artboard 1</title>
+  <g id="iconZeusBackground">
+    <g id="iconBorder">
+      <path d="M246,10V246H10V10H246M256,0H0V256H256V0Z"/>
+    </g>
+  </g>
+  <g id="iconZeusCircles">
+    <circle class="cls-1" cx="92" cy="99" r="30"/>
+    <circle class="cls-1" cx="163" cy="127" r="30"/>
+    <circle class="cls-1" cx="116" cy="181" r="30"/>
+  </g>
+  <g id="lightningBolt">
+    <polygon id="lightningBoltFill" class="cls-2" points="146 126 95 188 125 136 97 141 137 88 117 129 146 126"/>
+    <polygon id="lightningBoltPath" class="cls-3" points="144 124 93 186 123 134 95 139 135 86 115 127 144 124"/>
+  </g>
+</svg>
