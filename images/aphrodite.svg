@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ffd4f3;
+      }
+
+      .cls-2 {
+        fill: #ff2a30;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <title>Artboard 3</title>
+  <g id="iconAphroditeBackground">
+    <g id="iconBorder">
+      <path d="M246,10V246H10V10H246M256,0H0V256H256V0Z"/>
+    </g>
+  </g>
+  <g id="iconAphroditeCircles">
+    <circle class="cls-1" cx="112" cy="98" r="30"/>
+    <circle class="cls-1" cx="183" cy="126" r="30"/>
+    <circle class="cls-1" cx="136" cy="180" r="30"/>
+  </g>
+  <g id="heart">
+    <path id="heartFill" class="cls-2" d="M169.61,111.39l-.62-.62a22,22,0,0,0-31,0l-6,6-6-6a22,22,0,0,0-31,0l-.62.62a22,22,0,0,0,0,31l6,6L132,180l31.62-31.62,6-6A22,22,0,0,0,169.61,111.39Z"/>
+    <path id="heartPath" class="cls-3" d="M166.61,108.39l-.62-.62a22,22,0,0,0-31,0l-6,6-6-6a22,22,0,0,0-31,0l-.62.62a22,22,0,0,0,0,31l6,6L129,177l31.62-31.62,6-6A22,22,0,0,0,166.61,108.39Z"/>
+  </g>
+</svg>

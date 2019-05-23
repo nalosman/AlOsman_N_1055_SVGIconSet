@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #9212d6;
+      }
+
+      .cls-2 {
+        fill: #7f0048;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #08010c;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <title>Artboard 9</title>
+  <g id="iconDionysusBackground">
+    <g id="iconBorder">
+      <path d="M246,10V246H10V10H246M256,0H0V256H256V0Z"/>
+    </g>
+  </g>
+  <g id="iconDionysusCircles">
+    <circle class="cls-1" cx="92" cy="90" r="30"/>
+    <circle class="cls-1" cx="163" cy="118" r="30"/>
+    <circle class="cls-1" cx="116" cy="172" r="30"/>
+  </g>
+  <g id="wineGlass">
+    <path id="wineGlassFill" class="cls-2" d="M103.06,109.59l-4.83-8.49c-2.91-5.12-.48-9.31,5.41-9.31h39.48a6.87,6.87,0,0,1,6,10.27l-4.28,7.53C133.33,129.78,114.54,129.78,103.06,109.59ZM123.5,125v49m0-1c-5,0-9,.9-9,2s4,2,9,2,9-.9,9-2S128.47,173,123.5,173Z"/>
+    <path id="wineGlassPath" class="cls-3" d="M99.06,104.8l-4.83-8.49C91.32,91.19,93.75,87,99.64,87h39.48a6.87,6.87,0,0,1,6,10.27l-4.28,7.53C129.33,125,110.54,125,99.06,104.8Zm20.44,15.41v49m0-1c-5,0-9,.9-9,2s4,2,9,2,9-.89,9-2S124.47,168.21,119.5,168.21Z"/>
+  </g>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #c7f8ff;
+      }
+
+      .cls-2 {
+        fill: #6a9cff;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <title>Artboard 10</title>
+  <g id="iconAstraeaBackground">
+    <g id="iconBorder">
+      <path d="M246,10V246H10V10H246M256,0H0V256H256V0Z"/>
+    </g>
+  </g>
+  <g id="iconAstraeaCircles">
+    <circle class="cls-1" cx="109" cy="91" r="30"/>
+    <circle class="cls-1" cx="180" cy="119" r="30"/>
+    <circle class="cls-1" cx="133" cy="173" r="30"/>
+  </g>
+  <g id="star">
+    <polygon id="starFill" class="cls-2" points="95.4 118.92 121.74 109.33 128.77 82.21 146.03 104.29 174 102.6 158.33 125.83 168.58 151.91 141.65 144.19 120.01 162 119.03 133.99 95.4 118.92"/>
+    <polygon id="starPath" class="cls-3" points="91.06 114.8 117.39 105.22 124.42 78.09 141.68 100.17 169.65 98.48 153.98 121.71 164.24 147.79 137.3 140.07 115.66 157.88 114.68 129.88 91.06 114.8"/>
+  </g>
+</svg>

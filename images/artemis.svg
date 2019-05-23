@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #1e2e72;
+      }
+
+      .cls-2 {
+        fill: #f2ebed;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <title>Artboard 5</title>
+  <g id="iconArtemisBackground">
+    <g id="iconBorder">
+      <path d="M246,11V247H10V11H246M256,1H0V257H256V1Z"/>
+    </g>
+  </g>
+  <g id="iconArtemisCircles">
+    <circle class="cls-1" cx="92" cy="95" r="30"/>
+    <circle class="cls-1" cx="163" cy="123" r="30"/>
+    <circle class="cls-1" cx="116" cy="177" r="30"/>
+  </g>
+  <g id="Moon">
+    <path id="moonFill" class="cls-2" d="M117.36,137.07A42.42,42.42,0,0,1,113.66,91,42.41,42.41,0,1,0,166,150.84,42.43,42.43,0,0,1,117.36,137.07Z"/>
+    <path id="moonPath" class="cls-3" d="M114.36,134.07A42.42,42.42,0,0,1,110.66,88,42.41,42.41,0,1,0,163,147.84,42.43,42.43,0,0,1,114.36,134.07Z"/>
+  </g>
+</svg>
