@@ -1,5 +1,5 @@
 
-body { 
+body {
   font-family: 'Poppins', sans-serif;
   font-size: 18px;
 }
@@ -8,43 +8,133 @@ body {
   display: none;
 }
 
-/* HEADER STYLES SECTON */
+/* HEADER STYLES */
 header {
   background-color: antiquewhite;
-  
+
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
   height: 80px;
   width: 100%;
-
 }
+
+.logo {
+  padding-top: 30px;
+  padding-left: 50px;
+}
+
+.mainNav {
+  margin-left: auto;
+  padding-top: 30px;
+  padding-right: 180px;
+}
+
+.mainNav ul {
+  text-decoration: none;
+  list-style-type: none;
+  padding-left: 135px;
+}
+
+.mainNav ul li {
+  display: inline;
+  padding-right: 30px;
+}
+.mainNav ul li a {
+  color: black;
+}
+.mainNav ul li a:hover {
+  color: #63C28E;
+}
+
+.main {
+  margin: 0 auto;
+  width: 1000px;
+}
+
+
+/* MAIN SECTION STYLING */
+#mainText {
+  margin: 0 auto;
+  width: 700px;
+}
+
 .mainHeadline {
   font-size: 36px;
-  margin: auto;
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 20px;
 }
 
-#mainText {
-  margin-top: 45px;
+#mainText p {
+  font-size: 24px;
+  line-height: 1.5;
   text-align: center;
 }
 
-svg {
-  width: 15%; 
+/* ICON STYLING  */
+.iconContainer {
+  width: 1000px;
+  margin: 0 auto;
+  margin-bottom: 45px;
+	display: flex;
+	flex-direction: row;
+  justify-content: space-between;
+  padding-top: 45px;
 }
+
+img {
+  width: 256px;
+  height: 256px;
+}
+
+/*BASIC CSS TRANSFORMATIONS - KEEP LEARNING ABOUT IT  */
+img:hover {
+  transform: scale(.75);
+  transition-duration: 2s;
+  opacity: 0.5;
+}
+
+.indivIcon {
+  width: 256px;
+}
+
+.iconTitle {
+  color: #63C28E;
+  padding-bottom: 5px;
+  padding-top: 5px;
+
+  text-align: center;
+
+}
+
 
 button {
   background-color: black;
   color: white;
   display: block;
   font-family: 'Poppins', sans-serif;
-  font-size: 20px;
+  font-size: 18px;
   height: 75px;
   margin: auto;
-  width: 200px;
+  width: 150px;
+
 }
 
-/* FOOTER STYLE SECTION */
-
-footer {
+/* FOOTER STYLES */
+#mainFooter {
   background-color: antiquewhite;
-  height: 100px;
+  height: 80px;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+
+  margin-top: 45px;
+
   width: 100%;
+}
+
+#copyright p {
+  padding-top: 30px;
 }
